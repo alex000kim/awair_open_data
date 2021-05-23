@@ -17,11 +17,11 @@ Repository of air quality data from Awair devices
 
 Follow instructions from the screenshots
 
-<img src="screenshots/1.jpg?raw=true" alt="Alt text" style="zoom:50%;" />
+<img src="screenshots/1.jpg?raw=true" width="250"/>
 
-<img src="screenshots/2.jpg?raw=true" alt="Alt text" style="zoom:50%;" />
+<img src="screenshots/2.jpg?raw=true" width="250"/>
 
-<img src="screenshots/3.jpg?raw=true" alt="Alt text" style="zoom:50%;" />
+<img src="screenshots/3.jpg?raw=true" width="250"/>
 
 Once downloaded, send these files to yourself e.g. via email.
 

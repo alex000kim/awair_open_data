@@ -6,7 +6,7 @@ Desciption of the sensors can be found here: https://docs.dashboard.getawair.com
 | ---------------------------------------- | :---------: | ---------------: | ---------------------- | ------------------------------ |
 | 5225296f-5917-4a77-be6e-7f80b60315f4.csv | @alex000kim | Montreal, Canada | Bedroom                |                                |
 | 557d4950-cdd2-4cfa-908e-7004d4382f0c.csv | @alex000kim | Montreal, Canada | Living room            | Shared living room and kitchen |
-|                                          |             |                  |                        |                                |
+| 99ec5640-5878-4c5d-8470-cdfc41d2ffe5.csv | @alainsaas  | Montreal, Canada | Living+Bedroom         |                                |
 |                                          |             |                  |                        |                                |
 |                                          |             |                  |                        |                                |
 

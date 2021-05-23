@@ -1,5 +1,6 @@
 # Awair dataset
-Repository of air quality data from Awair devices
+Repository of air quality data from [Awair](https://www.getawair.com/) devices.
+Desciption of the sensors can be found here: https://docs.dashboard.getawair.com/
 
 | Filename                                 | Contributor |    City, Country | Room (device location) | Contributor's comments         |
 | ---------------------------------------- | :---------: | ---------------: | ---------------------- | ------------------------------ |

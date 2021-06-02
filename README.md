@@ -1,6 +1,14 @@
 # Awair dataset
-Repository of air quality data from [Awair](https://www.getawair.com/) devices.
-Desciption of the sensors can be found here: https://docs.dashboard.getawair.com/
+Repository of indoor air quality data from [Awair](https://www.getawair.com/) devices.
+
+Each file contains data from the following sensors:
+- Temperature
+- Relative Humidity
+- Carbon Dioxide (CO₂)
+- Total Volatile Organic Compounds (TVOCs)
+- Particulate Matter (PM2.5 - Fine Dust)
+
+Detailed desciption of the sensors can be found here: https://docs.dashboard.getawair.com/
 
 | Filename                                 | Contributor |    City, Country | Room (device location) | Contributor's comments         |
 | ---------------------------------------- | :---------: | ---------------: | ---------------------- | ------------------------------ |
